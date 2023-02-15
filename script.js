@@ -3,18 +3,18 @@ let addBtn = document.getElementById('addBtn');
 let saveBtn = document.getElementById('saveBtn');
 
 // let todoList = [
-    // {
-    //     todoName: 'Learn HTML',
-    //     uniqueId: 1
-    // },
-    // {
-    //     todoName: 'Learn CSS',
-    //     uniqueId: 2
-    // },
-    // {
-    //     todoName: 'Learn Javascript',
-    //     uniqueId: 3
-    // }
+//     {
+//         todoName: 'Learn HTML',
+//         uniqueId: 1
+//     },
+//     {
+//         todoName: 'Learn CSS',
+//         uniqueId: 2
+//     },
+//     {
+//         todoName: 'Learn Javascript',
+//         uniqueId: 3
+//     }
 // ];
 
 
